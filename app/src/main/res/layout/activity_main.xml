@@ -55,7 +55,7 @@
             android:id="@+id/display"
             android:layout_width="272dp"
             android:layout_height="52dp"
-            android:text="Matche your age to a famous historic figure!"
+            android:text="Match your age to a famous historic figure!"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="20sp"
