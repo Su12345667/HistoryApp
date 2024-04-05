@@ -21,6 +21,7 @@ o	Sir Isaac Newton aged 84,
 o	Nelson Mandela aged 95,
 o	Adolf Hitler aged 56.
 
+![R](https://github.com/Su12345667/HistoryApp/assets/163244104/f3641f7c-e024-41ef-a780-5b73d6f34a29)
 Once The History App is running and installed on the emulator, the user will see the interface where they can then run the app. The first step for the user is to input a value into the edit text number function. Once a value fitting the criteria is entered the user can click generate and the display message will either show a match or notify the user that there is no current match in the list. Once the display message is shown the user can make the decision to exit the application or reset the application and run the loop again. This is done by clicking on either the exit button or the reset button. 
 
 While coding my application there were many considerations to take into account. Firstly, the use of colour and size of the text. This is important as it affects the visibility and usability of the application. Another consideration of the application is where the display text view function is located. If located at the bottom of the application the user may not see the display text as the number pad will be displayed on top of the text, therefore I have placed the display text view function at the top of the screen directly under the heading to ensure visibility to all users. 
