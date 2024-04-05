@@ -34,7 +34,7 @@ Throughout the developing process GitHub was used. GitHub is a coding platform t
 ![OIP](https://github.com/Su12345667/HistoryApp/assets/163244104/ed636046-036f-4fe5-aba2-220283ce7691)
 
 To make use of the above-mentioned GitHub actions a user must create a repository. The repository is used to store your code and a files revision history. The repository used for my application is named HistoryApp and is a private file and it includes a ReadMe file. A ReadMe file is a description of the code in the repository. To share your code from Android Studios to GitHub regularly commit and push your updated software files. This ensures that every version of the application can be seen and edited. This also allows the user to easily test the application other than on Android Studios. (Hideaki Hata, 2021)
-       
+       ![Repositories-1](https://github.com/Su12345667/HistoryApp/assets/163244104/97109193-872d-4d3c-a876-6bd5fd4b24c8)
 
 Lastly, the use of Android Studio for this assignment. This application (The History App) was coded in Android Studio using the coding language Kotlin, which is a simplified version of the coding language Java. Android Studio is the official IDE (integrated development environment) for any android software development. Android studio has many helpful coding features such as the code editor, an emulator, a gradle build system, testing tools and so much more. These features ensure the easy use of the application and makes coding and testing an application easy to do. Android Studio allows for users to develop high quality Android applications efficiently. 
  
