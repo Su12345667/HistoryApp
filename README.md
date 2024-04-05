@@ -32,7 +32,7 @@ To make use of the above-mentioned GitHub actions a user must create a repositor
 
 Lastly, the use of Android Studio for this assignment. This application (The History App) was coded in Android Studio using the coding language Kotlin, which is a simplified version of the coding language Java. Android Studio is the official IDE (integrated development environment) for any android software development. Android studio has many helpful coding features such as the code editor, an emulator, a gradle build system, testing tools and so much more. These features ensure the easy use of the application and makes coding and testing an application easy to do. Android Studio allows for users to develop high quality Android applications efficiently. 
  
-Android Studio has ensured that The History App is an efficient and attractive application. The Android Studio tools allowed for easy additions of buttons, text view functions, edit text number functions, and lastly an application that functions on almost all devices. 
+Android Studio has ensured that The History App is an efficient and attractive application. The Android Studio tools allowed for easy additions of buttons, text view functions, edit text number functions, and lastly an application that functions on almost all devices. A further explantion and view of the History app watch the following video file:///C:/Users/suram/Videos/Captures/The%20History%20App%20%E2%80%93%20MainActivity.kt%20[The_History_App.app.main]%202024-04-05%2014-39-59.mp4
 
 
 
