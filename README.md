@@ -28,6 +28,7 @@ While coding the functionality of the application I had to consider how to preve
 
 Throughout the developing process GitHub was used. GitHub is a coding platform that hosts users for collaborations, version control, and continuous integration. With the use of GitHub developers are enabled to easily share files for code and simultaneously provide input for the development of software. It allows developers or users to track changes to code in a web-based interface and automates testing and deployment of software. GitHub ensures that applications are robust and maintainable.
 <img width="641" alt="android-studio-100609498-orig" src="https://github.com/Su12345667/HistoryApp/assets/163244104/fd0bf357-aac7-46d6-940e-0753c68a690c">
+![OIP](https://github.com/Su12345667/HistoryApp/assets/163244104/ed636046-036f-4fe5-aba2-220283ce7691)
 
 To make use of the above-mentioned GitHub actions a user must create a repository. The repository is used to store your code and a files revision history. The repository used for my application is named HistoryApp and is a private file and it includes a ReadMe file. A ReadMe file is a description of the code in the repository. To share your code from Android Studios to GitHub regularly commit and push your updated software files. This ensures that every version of the application can be seen and edited. This also allows the user to easily test the application other than on Android Studios. (Hideaki Hata, 2021)
        
